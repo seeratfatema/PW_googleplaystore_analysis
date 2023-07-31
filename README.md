@@ -1,4 +1,4 @@
-![Screenshot 2023-07-31 184214](https://github.com/seeratfatema/PW_googleplaystore_analysis/assets/115491132/c2fb6dca-b153-45b5-93d5-38346548b51d)# PW_googleplaystore_analysis#
+PW_googleplaystore_analysis#
 Hello all,
 
 My name is Seerat Fatema,Business intelligence  intern at PW (PhysicsWallah) . My project is about "Analysing Google App Store".
